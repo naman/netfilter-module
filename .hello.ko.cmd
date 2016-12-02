@@ -1,1 +1,0 @@
-cmd_/home/naman/Desktop/ns/a2/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/naman/Desktop/ns/a2/hello.ko /home/naman/Desktop/ns/a2/hello.o /home/naman/Desktop/ns/a2/hello.mod.o
